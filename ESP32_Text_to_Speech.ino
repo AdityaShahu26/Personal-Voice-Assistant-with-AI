@@ -14,8 +14,6 @@
          connect with Internet
 
 
-    If you still facing any issues, kindly watch out our video about this project on our YouTube channel
-    YouTube channel - https://www.youtube.com/techiesms
 
 
 */
